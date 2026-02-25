@@ -6,15 +6,25 @@ Bienvenue sur le site officiel du festival **MétéoPop** ! Ce site permet de co
 ## Structure du projet : 
 
 meteo-site/
+
 │── index.html
+
 │── contact.html
+
 │── styles.css
+
 │── contact.css
+
 │── programme.html
+
 │── programe.css
+
 │── billetterie.html
+
 │── billetterie.css
+
 │── assets/
+
 │── README.md
 
 ## Installation : 
