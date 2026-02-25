@@ -48,7 +48,10 @@ Sélectionne "Open with Live Server".
 # Pages disponibles : 
 
 index.html : Page d'accueil du festival.
+
 contact.html : Formulaire de contact pour les visiteurs.
+
 programme.html : Programmation complète des artistes.
+
 billeterie.html : Tarifs et options de billetterie
 
