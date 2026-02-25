@@ -9,7 +9,11 @@ meteo-site/
 │── index.html
 │── contact.html
 │── styles.css
-│── styles.css
+│── contact.css
+│── programme.html
+│── programe.css
+│── billetterie.html
+│── billetterie.css
 │── assets/
 │── README.md
 
@@ -35,3 +39,6 @@ Sélectionne "Open with Live Server".
 
 index.html : Page d'accueil du festival.
 contact.html : Formulaire de contact pour les visiteurs.
+programme.html : Programmation complète des artistes.
+billeterie.html : Tarifs et options de billetterie
+

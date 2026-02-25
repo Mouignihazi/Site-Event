@@ -1,0 +1,42 @@
+.programme-container {
+  display: flex;
+  flex-direction: column;
+  gap: 30px;
+  margin-top: 20px;
+}
+
+.jour-programme {
+  text-align: center;
+}
+
+.jour-programme h3 {
+  color: var(--purple);
+  font-family: Georgia, serif;
+  font-size: 24px;
+  margin-bottom: 15px;
+}
+
+.artistes-list {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  max-width: 400px;
+  margin: 0 auto;
+}
+
+.artiste-item {
+  display: flex;
+  justify-content: space-between;
+  padding: 10px;
+  background: rgba(255, 255, 255, 0.1);
+  border-radius: 6px;
+}
+
+.artiste-item .heure {
+  font-weight: bold;
+  color: var(--accent);
+}
+
+.artiste-item .artiste {
+  color: var(--purple-dark);
+}
